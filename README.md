@@ -5,7 +5,7 @@ Applied statistical analyses completed as part of a Biostatistics course using R
 This repository contains applied statistical analyses completed as part of a Biostatistics course.
 
 ## Methods Used
-- Descriptive statistics
+- Two-sample t-Test
 - Two-way ANOVA
 - Interpretation of main and interaction effects
 
